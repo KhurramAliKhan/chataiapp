@@ -1,0 +1,288 @@
+{
+  "translation": {
+    "introSlider": {
+      "personalAi": "A personal AI helper for you",
+      "personalAiDesc": "Open AI is designed to increase your productivity by offering rapid access to knowledge.",
+      "generateImage": "Quickly create an image",
+      "generateImageDesc": "To receive the finest results and a time-saving tool, simply input the image you desire and its size.",
+      "createContent": "Rapid content production",
+      "contentDesc": "To get the best results without copies, enter the title you want the content for; you may change it.",
+      "skip": "Skip"
+    },
+    "onBoarding": {
+      "fastResponse": "Fast Response for everything you need",
+      "availableAllTimes": "A buddy who is available to you at all times for conversation or utilization as a p.a.",
+      "or": "or",
+      "continueAsGuest": "Continue as a guest"
+    },
+    "signIn": {
+      "donthaveAccount": "Don’t have an account ?"
+    },
+    "signUp": {
+      "fullName": "Full Name",
+      "enterFullName": "Enter full name",
+      "createAccount": "Create a New Account",
+      "confirmPassword": "Confirm Password",
+      "reenterpassword": "Re-enter password",
+      "alreadyHaveAccount": "Already have an account?"
+    },
+    "auth": {
+      "signUp": "Sign up",
+      "signIn": "Sign in",
+      "enterEmail": "Enter your mail id",
+      "password": "Password",
+      "enterPassword": "Enter password",
+      "simplyUseMegabot": "You may get help whenever you need it by using this MegaBot.",
+      "resetPassword": "Reset Password",
+      "fillForm": "Fill the below form",
+      "email": "Email",
+      "getOtp": "Get OTP",
+      "phoneNumber": "Phone number",
+      "phone": "Phone",
+      "emailPlaceholder": "Enter mail id",
+      "phonePlaceholder": "Enter phone no.",
+      "emailSucess": "Email sent sucessfully",
+      "userNotFound": "Use not found"
+    },
+    "authError": {
+      "email": "Please Enter email",
+      "name": "Please Enter name",
+      "validEmail": "Please enter Valid email",
+      "usedEmail": "Email is already in use.",
+      "password": "Please enter Password",
+      "validPassword": "password should not be less than 8",
+      "wrongPassword": "Please enter correct Password",
+      "cpassword": "Please Enter Confirm Password",
+      "validCpassword": "Password and Confirm password should be match",
+      "phoneNumber": "Please Enter Phone number"
+    },
+    "phoneSignIn": {
+      "phoneVerification": "Phone Number Verification",
+      "getOtp": "Enter your number to get OTP",
+      "otpVerification": "OTP Verification",
+      "otpContent": "We have sent the code verification to your ",
+      "verifyProceed": "Verify & proceed",
+      "receiveOtp": "Don’t receive OTP code ?",
+      "resend": "Resend it",
+      "getOTP": "Get OTP",
+      "mobilePhone": "mobile phone",
+      "email": "email",
+      "proceed": "Verify & proceed"
+    },
+    "otpVerify": {
+      "enterOTP": "Please enter OTP"
+    },
+    "changePass": {
+      "changePassword": "Change Password",
+      "newPassword": "New Password",
+      "confirmPassword": "Confirm Password",
+      "updatePassword": "Update Password"
+    },
+    "commonContent": {
+      "subtitle": "You can change it later from setting",
+      "imgeGenerator": "Image generator",
+      "loading": "Loading...",
+      "contentWriter": "Content writer",
+      "myAccount": "My account",
+      "chatBot": "ChatBot",
+      "chatHistory": "Chat History",
+      "congratulations": "Congratulations",
+      "somethingWentWrong": "Something went wrong please try again later."
+    },
+    "languageContent": {
+      "title": "Select Language",
+      "hindi": "Hindi",
+      "english": "English",
+      "french": "French",
+      "italian": "Italian",
+      "japanese": "Japanese",
+      "german": "German"
+    },
+    "button": {
+      "continue": "Continue",
+      "share": "Share",
+      "download": "Download",
+      "update": "Update",
+      "done": "Done",
+      "tryAgain": "Try again",
+      "deleteAccount": "Delete Account",
+      "watchNow": "Watch now",
+      "okay": "Okay"
+    },
+    "charecterContent": {
+      "title": "Select Character"
+    },
+    "fingerPrint": {
+      "contentDesc": "Setup a fingerprint scanner to increase the security of your application.",
+      "addNow": "Add now",
+      "doitLater": "Do it later"
+    },
+    "fingerprintLock": {
+      "title": "Fingerprint lock & security",
+      "subTitle": "You have not yet uploaded a fingerprint",
+      "desc": "(You can add max 2 fingerprint)",
+      "verify": "Verify",
+      "verifyFingureprint": "  You have not yet verify a fingureprint"
+    },
+    "addFingerprint": {
+      "addFingerprint": "Add fingerprint",
+      "title": "Place your finger on the sensor",
+      "subTitle": "Press the sensor and lift when you feel vibration"
+    },
+    "bottomTab": {
+      "home": "Home",
+      "chat": "Chat",
+      "image": "Image",
+      "content": "Content",
+      "settings": "Settings"
+    },
+    "home": {
+      "startExperience": "Start you greatest experience now!!",
+      "askAnything": "Ask anything",
+      "imageGenerator": "Image generator",
+      "contentWriting": "Content Writing"
+    },
+    "image": {
+      "search": "Search",
+      "imageSize": "Image size",
+      "viewType": "View type",
+      "selectSize": "Select size",
+      "SelectType": "Select type",
+      "searchDesc": "You have not yet searched for anything; begin your search now.",
+      "generateImage": "Generate image",
+      "imagePreview": "Image preview",
+      "generated": "Generated",
+      "loadingImage": "Please wait for image load"
+    },
+    "imageType": {
+      "pageType": "Page type",
+      "gridType": "Grid type"
+    },
+    "contentWriting": {
+      "topic": "Topic",
+      "placeholder": "Ex. Ui/UX Design",
+      "generateContent": "Generate content",
+      "description": "Description"
+    },
+    "contentOptions": {
+      "businessIdea": "Business Idea",
+      "coverLetter": "Cover letter",
+      "blogSection": "Blog section",
+      "marketingWriting": "Marketing writing",
+      "service": "Service"
+    },
+    "setting": {
+      "setting": "Setting",
+      "welcomeToMegabot": "Welcome to Megabot",
+      "myAccount": "My Account",
+      "apiKey": "Manage API key",
+      "fingerprintLock": "Fingerprint lock",
+      "notification": "Notification",
+      "language": "Language",
+      "character": "Character",
+      "rtl": "Rtl",
+      "rateApp": "Rate app",
+      "shareApp": "Share app",
+      "privacyTerm": "Privacy & term",
+      "refundPlolicy": "Refund & Policy",
+      "logout": "Logout"
+    },
+    "myAccount": {
+      "firstName": "First name",
+      "lastName": "Last name",
+      "firestNamePlaceholder": "Enter First Name"
+    },
+    "otpModal": {
+      "codeVerificationWithMobile": " We have sent the code verification to your mobile number"
+    },
+    "chatOptions": {
+      "shareToFriend": "Share to friend",
+      "downloadChat": "Download chat",
+      "changeBackground": "Change background",
+      "clearChat": "Clear chat"
+    },
+    "chat": {
+      "messageLimit": " You've hit the message limit,",
+      "clickBelow": "click below",
+      "toGet": "to get",
+      "reward": " reward ",
+      "watchNow": "Watch now",
+      "typeHere": "Type Here...",
+      "thereAre": "There are",
+      "awardsLeft": "awards left to message.",
+      "cleared": "Successfully Clear",
+      "descCleared": "Your whole conversation has been  successfully cleared.",
+      "today": "Today",
+      "suggestion": "Question suggestion",
+      "preBuildQuestions": "Pre build Questions :",
+      "defaultWallpaper": "Default Wallpaper"
+    },
+    "CurruncyOptions": {
+      "usDollar": "Us Dollar",
+      "euro": "Euro",
+      "inr": "INR",
+      "pound": "Pound"
+    },
+    "paymentOptions": {
+      "payPal": "Pay pal",
+      "razorPay": "Razor Pay",
+      "inAppPurchase": "In-app purchase",
+      "stripe": "Stripe"
+    },
+    "rewardModal": {
+      "newReward": " Congratulations!! you've got a 1 new reward for your ProBot.",
+      "hurrey": "Hurrey!!!",
+      "rewardsLeft": "Rewards left"
+    },
+    "resultModal": {
+      "sucessfullyAdded": "Successfully Added",
+      "fingurePrintSucess": "Your fingerprint has been added successfully."
+    },
+    "chatHistory": {
+      "title": "Chat History",
+      "selectAll": "Select all",
+      "ClearAll": "Clear all",
+      "historyCleared": "Your chat history has been successfully cleared."
+    },
+    "apiKey": {
+      "manageKey": "Manage API key",
+      "addAPIKey": "Add API key",
+      "removeKey": "Remove API key",
+      "save": "Save",
+      "keyAdded": "API Key Added",
+      "deleteKey": "Your API key was successfully added, you can remove it by going to settings > manage API.",
+      "keyRemoved": "API Key Removed",
+      "keyDeleted": "Your API key was successfully deleted, you can re-add it by going to settings > manage API.",
+      "enterValidKey": "Please enter valid API key",
+      "storeKey": "Your mobile device's internal storage for your API key ensures that it is never communicated to a third party.",
+      "removeLater": "You can keep your key to use it later and remove it if you decide not to use it any longer.",
+      "addKey": "Add Key :",
+      "apiKey": "API Key :",
+      "enterKey": "Enter API Key"
+    },
+    "notification": {
+      "allowNotification": "Allow Notification",
+      "allow": "Allow",
+      "sendNotification": " We wish to send you notifications from our app for alerts, new updates, and other things."
+    },
+    "noInternet": {
+      "NoInternet": "No Internet",
+      "retry": "Retry",
+      "noInternet": "Oops !! No internet",
+      "checkConnection": "Couldn't connect to the internet. Please check your internet connection settings."
+    },
+    "profile": {
+      "myAccount": "My account",
+      "emailPhone": "Email/Phone",
+      "enterEmailPhone": "Enter your Email or your Phone number",
+      "update": "Update"
+    },
+    "balance": {
+      "coinsAvailable": "Coins available",
+      "wantMore": "Want unlimited question answer click on",
+      "or": "OR",
+      "wantMoreCoins": "Want more coin balance, click on",
+      "watchVideo": "Watch Videos"
+    }
+  }
+}

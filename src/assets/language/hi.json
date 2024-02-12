@@ -1,0 +1,287 @@
+{
+  "translation": {
+    "introSlider": {
+      "personalAi": "आपके लिए एक व्यक्तिगत एआई सहायक",
+      "personalAiDesc": "Open AI को ज्ञान तक त्वरित पहुँच प्रदान करके आपकी उत्पादकता बढ़ाने के लिए डिज़ाइन किया गया है।",
+      "generateImage": "जल्दी से छवि बनाएँ",
+      "generateImageDesc": "सर्वोत्तम परिणाम और समय बचाने वाला टूल प्राप्त करने के लिए, बस अपनी इच्छित छवि और उसका आकार डालें।",
+      "createContent": "त्वरित सामग्री उत्पादन",
+      "contentDesc": "प्रतियों के बिना सर्वोत्तम परिणाम प्राप्त करने के लिए, वह शीर्षक दर्ज करें जिसके लिए आप सामग्री चाहते हैं; आप इसे बदल सकते हैं।",
+      "skip": "छोडना"
+    },
+    "onBoarding": {
+      "fastResponse": "आपकी जरूरत की हर चीज के लिए तेज प्रतिक्रिया",
+      "availableAllTimes": "एक दोस्त जो आपके लिए हर समय बातचीत या उपयोग के लिए पीए के रूप में उपलब्ध रहता है।",
+      "or": "या",
+      "continueAsGuest": "अतिथि के रूप में जारी रखें"
+    },
+    "signIn": {
+      "dontHaveAccount": "खाता नहीं है?"
+    },
+    "signUp": {
+      "fullName": "पूरा नाम",
+      "enterFullName": "पूरा नाम दर्ज करें",
+      "createAccount": "एक नया खाता बनाएं",
+      "confirmPassword": "पासवर्ड की पुष्टि कीजिये",
+      "reenterpassword": "पासवर्ड फिर से दर्ज करें",
+      "alreadyHaveAccount": "क्या आपके पास पहले से एक खाता मौजूद है?"
+    },
+    "auth": {
+      "signUp": "साइन अप करें",
+      "signIn": "दाखिल करना",
+      "enterEmail": "अपनी मेल आईडी दर्ज करें।",
+      "password": "पासवर्ड",
+      "enterPassword": "पास वर्ड दर्ज करें",
+      "simplyUseMegabot": "जब भी आपको इस मेगाबॉट का उपयोग करने की आवश्यकता हो, आप सहायता प्राप्त कर सकते हैं।",
+      "resetPassword": "पासवर्ड रीसेट",
+      "fillForm": "नीचे दिया गया फॉर्म भरें",
+      "email": "ईमेल",
+      "getOtp": "ओटीपी प्राप्त करें",
+      "phoneNumber": "फ़ोन नंबर",
+      "phone": "फ़ोन",
+      "emailPlaceholder": "मेल आईडी दर्ज करें",
+      "phonePlaceholder": "फोन नंबर दर्ज करें",
+      "emailSucess": "सफलतापूर्वक भेजा गया ईमेल",
+      "userNotFound": "उपयोग नहीं मिला"
+    },
+    "authError": {
+      "email": "कृपया ईमेल दर्ज करें",
+      "name": "Please Enter name",
+      "validEmail": "कृपया वैध ईमेल दर्ज़ करें",
+      "usedEmail": "ईमेल पहले से प्रयोग में है।",
+      "password": "कृपया पासवर्ड दर्ज करें",
+      "validPassword": "पासवर्ड 8 से कम नहीं होना चाहिए",
+      "wrongPassword": "कृपया सही पासवर्ड दर्ज करें",
+      "cpassword": "कृपया पुष्टि पासवर्ड दर्ज करें",
+      "validCpassword": "पासवर्ड और कन्फर्म पासवर्ड मैच होना चाहिए",
+      "phoneNumber": "कृपया फोन नंबर दर्ज करें"
+    },
+    "phoneSignIn": {
+      "phoneVerification": "फ़ोन नंबर सत्यापन",
+      "getOtp": "ओटीपी प्राप्त करने के लिए अपना नंबर दर्ज करें",
+      "otpVerification": "ओटीपी सत्यापन",
+      "otpContent": "हमने कोड सत्यापन आपके पास भेज दिया है आपके",
+      "verifyProceed": "सत्यापित करें और आगे बढ़ें",
+      "receiveOtp": "ओटीपी कोड प्राप्त नहीं होता है?",
+      "resend": "इसे फिर से भेजें",
+      "getOTP": "ओटीपी प्राप्त करें",
+      "mobilePhone": "चल दूरभाष",
+      "email": "ईमेल",
+      "proceed": "सत्यापित करें और आगे बढ़ें"
+    },
+    "otpVerify": {
+      "enterOTP": "कृपया ओटीपी दर्ज करें"
+    },
+    "changePass": {
+      "changePassword": "पासवर्ड बदलें",
+      "newPassword": "नया पासवर्ड",
+      "confirmPassword": "पासवर्ड की पुष्टि कीजिये",
+      "updatePassword": "पासवर्ड अपडेट करें"
+    },
+    "commonContent": {
+      "subtitle": "आप इसे बाद में सेटिंग से बदल सकते हैं",
+      "imgeGenerator": "छवि जनरेटर",
+      "loading": "लोड हो रहा है...",
+      "contentWriter": "कंटेंट लेखक",
+      "myAccount": "मेरा खाता",
+      "chatBot": "चैटबॉट",
+      "chatHistory": "चैट का इतिहास",
+      "congratulations": "बधाई हो",
+      "somethingWentWrong": "कुछ गलत हो गया है। कृपया बाद में दोबारा प्रयास करें।"
+    },
+    "languageContent": {
+      "title": "भाषा चुने",
+      "english": "अंग्रेज़ी",
+      "hindi": "हिंदी",
+      "french": "फ्रेंच",
+      "italian": "इतालवी",
+      "japanese": "जापानी",
+      "german": "जर्मन"
+    },
+    "button": {
+      "continue": "जारी रखना",
+      "share": "शेयर करना",
+      "download": "डाउनलोड करना",
+      "update": "अद्यतन",
+      "done": "पूर्ण",
+      "tryAgain": "पुनः प्रयास करें",
+      "deleteAccount": "खाता हटा दो",
+      "watchNow": "अब देखिए",
+      "okay": "ठीक"
+    },
+    "charecterContent": {
+      "title": "चरित्र का चयन करें"
+    },
+    "fingerPrint": {
+      "contentDesc": "अपने एप्लिकेशन की सुरक्षा बढ़ाने के लिए फ़िंगरप्रिंट स्कैनर सेटअप करें",
+      "addNow": "अभी जोड़ें",
+      "doitLater": "इसे बाद में करें"
+    },
+    "fingerprintLock": {
+      "title": "फिंगरप्रिंट लॉक और सुरक्षा",
+      "subTitle": "आपने अभी तक फ़िंगरप्रिंट अपलोड नहीं किया है",
+      "desc": "(आप अधिकतम 2 फ़िंगरप्रिंट जोड़ सकते हैं)",
+      "verify": "सत्यापित करना",
+      "verifyFingureprint": "  आपने अभी तक फ़िंगरप्रिंट सत्यापित नहीं किया है"
+    },
+    "addFingerprint": {
+      "addFingerprint": "फ़िंगरप्रिंट जोड़ें",
+      "title": "अपनी उंगली सेंसर पर रखें",
+      "subTitle": "कंपन महसूस होने पर सेंसर को दबाएं और उठाएं"
+    },
+    "bottomTab": {
+      "home": "घर",
+      "chat": "बात करना",
+      "image": "छवि",
+      "content": "संतुष्ट",
+      "settings": "समायोजन"
+    },
+    "home": {
+      "startExperience": "अब आप सबसे बड़ा अनुभव शुरू करें !!",
+      "askAnything": "कुछ भी पूछें",
+      "imageGenerator": "छवि जनरेटर",
+      "contentWriting": "सामग्री लेखन"
+    },
+    "image": {
+      "search": "खोज",
+      "imageSize": "छवि का आकार",
+      "viewType": "प्रकार देखें",
+      "selectSize": "आकार चुना",
+      "SelectType": "प्रकार चुनें",
+      "searchDesc": "आपने अभी तक कुछ भी नहीं खोजा है; अभी अपनी खोज शुरू करें।",
+      "generateImage": "छवि उत्पन्न करें",
+      "imagePreview": "छवि पूर्वावलोकन",
+      "generated": "जनरेट किया गया",
+      "loadingImage": "कृपया छवि लोड होने की प्रतीक्षा करें"
+    },
+    "imageType": {
+      "pageType": "पृष्ठ प्रकार",
+      "gridType": "ग्रिड प्रकार"
+    },
+    "contentWriting": {
+      "topic": "विषय",
+      "placeholder": "पूर्व। यूआई/यूएक्स डिजाइन",
+      "generateContent": "सामग्री उत्पन्न करें",
+      "description": "विवरण"
+    },
+    "contentOptions": {
+      "businessIdea": "व्यापार तरकीब",
+      "coverLetter": "कवर लेटर",
+      "blogSection": "ब्लॉग अनुभाग",
+      "marketingWriting": "विपणन लेखन",
+      "service": "सेवा"
+    },
+    "setting": {
+      "setting": "सेटिंग",
+      "welcomeToMegabot": "मेगाबॉट में आपका स्वागत है",
+      "myAccount": "मेरा खाता",
+      "apiKey": "एपीआई कुंजी प्रबंधित करें",
+      "fingerprintLock": "फिंगरप्रिंट लॉक",
+      "notification": "अधिसूचना",
+      "language": "भाषा",
+      "character": "चरित्र",
+      "rtl": "आरटीएल",
+      "rateApp": "एप्प का मूल्यांकन",
+      "shareApp": "ऐप शेयर करें",
+      "privacyTerm": "गोपनीयता और अवधि",
+      "refundPlolicy": "भुगतान वापसी की नीति",
+      "logout": "लॉग आउट"
+    },
+    "myAccount": {
+      "firstName": "पहला नाम",
+      "lastName": "उपनाम",
+      "firestNamePlaceholder": "प्रथम नाम दर्ज करें"
+    },
+    "otpModal": {
+      "codeVerificationWithMobile": "हमने आपके मोबाइल नंबर पर कोड सत्यापन भेज दिया है"
+    },
+    "chatOptions": {
+      "shareToFriend": "मित्र को शेयर करें",
+      "downloadChat": "चैट डाउनलोड करें",
+      "changeBackground": "पृष्ठिका बदलो",
+      "clearChat": "यह स्पष्ट है कि"
+    },
+    "chat": {
+      "messageLimit": "आपने संदेश सीमा पार कर ली है,",
+      "clickBelow": "नीचे क्लिक करें",
+      "toGet": "पाने के",
+      "reward": "इनाम",
+      "watchNow": "अब देखिए",
+      "typeHere": "यहाँ टाइप करें...",
+      "thereAre": "वहाँ हैं",
+      "awardsLeft": "पुरस्कार संदेश के लिए छोड़ दिया।",
+      "cleared": "सफलतापूर्वक साफ़ करें",
+      "descCleared": "आपकी पूरी बातचीत सफलतापूर्वक साफ़ कर दी गई है।",
+      "today": "आज",
+      "suggestion": "प्रश्न सुझाव",
+      "preBuildQuestions": "प्री बिल्ड प्रश्न:",
+      "defaultWallpaper": "डिफ़ॉल्ट वॉलपेपर"
+    },
+    "CurruncyOptions": {
+      "usDollar": "अमेरिकी डॉलर",
+      "euro": "यूरो",
+      "inr": "आईएनआर",
+      "pound": "पाउंड"
+    },
+    "paymentOptions": {
+      "payPal": "Paypal",
+      "razorPay": "रेजरपे",
+      "inAppPurchase": "ऐप में खरीदारी",
+      "stripe": "स्ट्रिप"
+    },
+    "rewardModal": {
+      "newReward": " बधाई हो!! आपको अपने ProBot के लिए 1 नया इनाम मिला है।",
+      "hurrey": "हुर्रे!!!",
+      "rewardsLeft": "इनाम बाकी है"
+    },
+    "resultModal": {
+      "sucessfullyAdded": "सफलतापूर्वक शामिल",
+      "fingurePrintSucess": "आपका फ़िंगरप्रिंट सफलतापूर्वक जोड़ दिया गया है।"
+    },
+    "chatHistory": {
+      "title": "चैट का इतिहास",
+      "selectAll": "सबका चयन करें",
+      "ClearAll": "सभी साफ करें"
+    },
+    "apiKey": {
+      "manageKey": "एपीआई कुंजी प्रबंधित करें",
+      "addAPIKey": "एपीआई कुंजी जोड़ें",
+      "removeKey": "एपीआई कुंजी निकालें",
+      "save": "बचाना",
+      "keyAdded": "एपीआई कुंजी जोड़ी गई",
+      "deleteKey": "आपकी API कुंजी सफलतापूर्वक जोड़ दी गई थी, आप सेटिंग > API प्रबंधित करें पर जाकर इसे निकाल सकते हैं.",
+      "keyRemoved": "एपीआई कुंजी निकाली गई",
+      "keyDeleted": "आपकी API कुंजी सफलतापूर्वक हटा दी गई थी, आप सेटिंग > API प्रबंधित करें पर जाकर इसे पुनः जोड़ सकते हैं।",
+      "enterValidKey": "कृपया मान्य एपीआई कुंजी दर्ज करें",
+      "storeKey": "आपकी एपीआई कुंजी के लिए आपके मोबाइल डिवाइस का आंतरिक भंडारण यह सुनिश्चित करता है कि इसे कभी भी किसी तीसरे पक्ष को सूचित नहीं किया जाता है।",
+      "removeLater": "आप इसे बाद में उपयोग करने के लिए अपनी कुंजी रख सकते हैं और यदि आप इसे और अधिक उपयोग नहीं करने का निर्णय लेते हैं तो इसे हटा सकते हैं।",
+      "addKey": "कुंजी जोड़ें:",
+      "apiKey": "एपीआई कुंजी :",
+      "enterKey": "एपीआई के दर्ज करेंy"
+    },
+    "notification": {
+      "allowNotification": "अधिसूचना की अनुमति दें",
+      "allow": "अनुमति देना",
+      "sendNotification": "  हम आपको अलर्ट, नए अपडेट और अन्य चीजों के लिए हमारे ऐप से सूचनाएं भेजना चाहते हैं."
+    },
+    "noInternet": {
+      "NoInternet": "कोई इंटरनेट नहीं",
+      "retry": "पुन: प्रयास करें",
+      "noInternet": "उफ़ !! कोई इंटरनेट नहीं",
+      "checkConnection": "इंटरनेट से कनेक्ट नहीं हो सका. कृपया अपनी इंटरनेट कनेक्शन सेटिंग जांचें."
+    },
+    "profile": {
+      "myAccount": "मेरा खाता",
+      "emailPhone": "ईमेल/फोन",
+      "enterEmailPhone": "अपना ईमेल या अपना फोन नंबर दर्ज करें",
+      "update": "अद्यतनe"
+    },
+    "balance": {
+      "coinsAvailable": "सिक्के उपलब्ध हैं",
+      "wantMore": "असीमित प्रश्न उत्तर चाहते हैं, पर क्लिक करें",
+      "or": "या",
+      "wantMoreCoins": "अधिक कॉइन बैलेंस चाहते हैं, पर क्लिक करें",
+      "watchVideo": "वीडियो देखेंs"
+    }
+  }
+}

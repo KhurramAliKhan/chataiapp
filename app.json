@@ -1,0 +1,8 @@
+{
+  "name": "MegaBot",
+  "displayName": "MegaBot",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "Your android app ID",
+    "ios_app_id": "Your ios app ID"
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "translation": {
+    "introSlider": {
+      "personalAi": "Un assistant IA personnel pour vous",
+      "personalAiDesc": "Open AI est conçu pour augmenter votre productivité en offrant un accès rapide à la connaissance.",
+      "generateImage": "Créer rapidement une image",
+      "generateImageDesc": "Pour obtenir les meilleurs résultats et un outil qui vous fait gagner du temps, saisissez simplement l'image que vous désirez et sa taille.",
+      "createContent": "Production rapide de contenu",
+      "contentDesc": "Pour obtenir les meilleurs résultats sans copies, entrez le titre pour lequel vous voulez le contenu ; vous pouvez le changer.",
+      "skip": "Sauter"
+    },
+    "onBoarding": {
+      "fastResponse": "Réponse rapide pour tout ce dont vous avez besoin",
+      "availableAllTimes": "Un copain qui est à votre disposition à tout moment pour une conversation ou une utilisation en tant que p.a.",
+      "or": "ou",
+      "continueAsGuest": "Continuer en tant qu'invité"
+    },
+    "signIn": {
+      "donthaveAccount": "Vous n'avez pas de compte ?"
+    },
+    "signUp": {
+      "fullName": "Nom et prénom",
+      "enterFullName": "Entrez le nom complet",
+      "createAccount": "Créer un nouveau compte",
+      "confirmPassword": "Confirmez le mot de passe",
+      "reenterpassword": "Entrez à nouveau le mot de passe",
+      "alreadyHaveAccount": "Vous avez déjà un compte?"
+    },
+    "auth": {
+      "signUp": "S'inscrire",
+      "signIn": "S'identifier",
+      "enterEmail": "Entrez votre identifiant de messagerie",
+      "password": "Mot de passe",
+      "enterPassword": "Entrer le mot de passe",
+      "simplyUseMegabot": "Vous pouvez obtenir de l'aide chaque fois que vous en avez besoin en utilisant ce MegaBot.",
+      "resetPassword": "réinitialiser le mot de passe",
+      "fillForm": "Remplissez le formulaire ci-dessous",
+      "email": "E-mail",
+      "getOtp": "Get OTP",
+      "phoneNumber": "Obtenir OTP",
+      "phone": "Téléphone",
+      "emailPlaceholder": "Entrez l'identifiant de messagerie",
+      "phonePlaceholder": "Entrez le numéro de téléphone.",
+      "emailSucess": "E-mail envoyé avec succès",
+      "userNotFound": "Utilisation introuvable"
+    },
+    "authError": {
+      "email": "Veuillez saisir un e-mail",
+      "name": "Please Enter name",
+      "validEmail": "Veuillez saisir une adresse e-mail valide",
+      "usedEmail": "Cet email est déjà utilisé.",
+      "password": "Veuillez entrer le mot de passe",
+      "validPassword": "le mot de passe ne doit pas être inférieur à 8",
+      "wrongPassword": "Veuillez entrer le mot de passe correct",
+      "cpassword": "Veuillez saisir le mot de passe",
+      "validCpassword": "Le mot de passe et le mot de passe de confirmation doivent correspondre",
+      "phoneNumber": "Veuillez entrer le numéro de téléphone"
+    },
+    "phoneSignIn": {
+      "phoneVerification": "Vérification du numéro de téléphone",
+      "getOtp": "Entrez votre numéro pour obtenir OTP",
+      "otpVerification": "Vérification OTP",
+      "otpContent": "Nous avons envoyé la vérification du code à votre",
+      "verifyProceed": "Vérifier et continuer",
+      "receiveOtp": "Vous ne recevez pas de code OTP ?",
+      "resend": "Renvoyez-le",
+      "getOTP": "Obtenir OTP",
+      "mobilePhone": "téléphone mobile",
+      "email": "e-mail",
+      "proceed": "Vérifier et continuer"
+    },
+    "otpVerify": {
+      "enterOTP": "Veuillez entrer OTP"
+    },
+    "changePass": {
+      "changePassword": "Changer le mot de passe",
+      "newPassword": "nouveau mot de passe",
+      "confirmPassword": "Confirmez le mot de passe",
+      "updatePassword": "Mettre à jour le mot de passe"
+    },
+    "commonContent": {
+      "subtitle": "Vous pouvez le modifier ultérieurement à partir du paramètre",
+      "imgeGenerator": "Générateur d'images",
+      "loading": "Chargement...",
+      "contentWriter": "Rédacteur de contenu",
+      "myAccount": "Mon compte",
+      "chatBot": "ChatBot",
+      "chatHistory": "Historique des conversations",
+      "congratulations": "Toutes nos félicitations",
+      "somethingWentWrong": "Quelque chose c'est mal passé. Merci d'essayer plus tard."
+    },
+    "languageContent": {
+      "title": "Choisir la langue",
+      "english": "Anglaise",
+      "hindi": "hindi",
+      "french": "Français",
+      "italian": "Italienne",
+      "japanese": "Japonais",
+      "german": "Allemand"
+    },
+    "button": {
+      "continue": "Continuer",
+      "share": "Partager",
+      "download": "Télécharger",
+      "update": "Mise à jour",
+      "done": "Fait",
+      "tryAgain": "Essayer à nouveau",
+      "deleteAccount": "Supprimer le compte",
+      "watchNow": "Regarde maintenant",
+      "okay": "D'accord"
+    },
+    "charecterContent": {
+      "title": "Sélectionnez le personnage"
+    },
+    "fingerPrint": {
+      "contentDesc": "Configurez un scanner d'empreintes digitales pour augmenter la sécurité de votre application.",
+      "addNow": "Ajouter maintenant",
+      "doitLater": "Fais-le plus tard"
+    },
+    "fingerprintLock": {
+      "title": "Verrouillage d'empreintes digitales et sécurité",
+      "subTitle": "Vous n'avez pas encore téléchargé d'empreinte digitale",
+      "desc": "(Vous pouvez ajouter max 2 empreintes digitales)",
+      "verify": "Vérifier",
+      "verifyFingureprint": "  Vous n'avez pas encore vérifié une empreinte digitale"
+    },
+    "addFingerprint": {
+      "addFingerprint": "Ajouter une empreinte digitale",
+      "title": "Placez votre doigt sur le capteur",
+      "subTitle": "Appuyez sur le capteur et soulevez-le lorsque vous ressentez des vibrations"
+    },
+    "bottomTab": {
+      "home": "Maison",
+      "chat": "Discuter",
+      "image": "Image",
+      "content": "Contenu",
+      "settings": "Paramètres"
+    },
+    "home": {
+      "startExperience": "Commencez votre plus grande expérience maintenant !!",
+      "askAnything": "Demandez n'importe quoi",
+      "imageGenerator": "Générateur d'images",
+      "contentWriting": "Rédaction de contenu"
+    },
+    "image": {
+      "search": "Recherche",
+      "imageSize": "Taille de l'image",
+      "viewType": "Type de vue",
+      "selectSize": "Sélectionnez la taille",
+      "SelectType": "Sélectionner le genre",
+      "searchDesc": "Vous n'avez encore rien cherché ; commencez votre recherche maintenant.",
+      "generateImage": "Générer une image",
+      "imagePreview": "Aperçu de l'image",
+      "generated": "Généré",
+      "loadingImage": "Veuillez attendre le chargement de l'image"
+    },
+    "imageType": {
+      "pageType": "Type de page",
+      "gridType": "Type de grille"
+    },
+    "contentWriting": {
+      "topic": "Sujette",
+      "placeholder": "Ex. Conception UI/UX",
+      "generateContent": "Générer du contenu",
+      "description": "description"
+    },
+    "contentOptions": {
+      "businessIdea": "Idée d'affaires",
+      "coverLetter": "Lettre de motivation",
+      "blogSection": "Rubrique blog",
+      "marketingWriting": "Rédaction marketing",
+      "service": "Service"
+    },
+    "setting": {
+      "setting": "Paramètre",
+      "welcomeToMegabot": "Bienvenue sur Megabot",
+      "myAccount": "Mon compte",
+      "apiKey": "Gérer la clé API",
+      "fingerprintLock": "Serrure d'empreintes digitales",
+      "notification": "Notification",
+      "language": "Langue",
+      "character": "Personnage",
+      "rtl": "RTL",
+      "rateApp": "Application de taux",
+      "shareApp": "Partager l'application",
+      "privacyTerm": "Confidentialité et durée",
+      "refundPlolicy": "Politique de remboursement",
+      "logout": "Se déconnecter"
+    },
+    "myAccount": {
+      "firstName": "Prénom",
+      "lastName": "Nom de famille",
+      "firestNamePlaceholder": "Entrez votre prénom"
+    },
+    "otpModal": {
+      "codeVerificationWithMobile": "Nous avons envoyé la vérification du code à votre numéro de mobile"
+    },
+    "chatOptions": {
+      "shareToFriend": "Partager avec un ami",
+      "downloadChat": "Télécharger le chat",
+      "changeBackground": "Changement de fond",
+      "clearChat": "Effacer le chat"
+    },
+    "chat": {
+      "messageLimit": "Vous avez atteint la limite de messages,",
+      "clickBelow": "cliquez ci-dessous",
+      "toGet": "obtenir",
+      "reward": "récompense",
+      "watchNow": "Regarde maintenant",
+      "typeHere": "Écrivez ici...",
+      "thereAre": "Il y a",
+      "awardsLeft": "récompenses laissées au message.",
+      "cleared": "Effacer avec succès",
+      "descCleared": "Ihre gesamte Konversation wurde erfolgreich gelöscht.",
+      "today": "Aujourd'hui",
+      "suggestion": "Suggestion de questions",
+      "preBuildQuestions": "Questions pré-construction :",
+      "defaultWallpaper": "Standardhintergrund"
+    },
+    "CurruncyOptions": {
+      "usDollar": "Dollars américain",
+      "euro": "euro",
+      "inr": "RNI",
+      "pound": "Broyer"
+    },
+    "paymentOptions": {
+      "payPal": "Pay Pal",
+      "razorPay": "Razorpay",
+      "inAppPurchase": "Achat intégré",
+      "stripe": "Stripe"
+    },
+    "rewardModal": {
+      "newReward": " Toutes nos félicitations!! vous avez une 1 nouvelle récompense pour votre ProBot.",
+      "hurrey": "Dépêchez-vous !!!",
+      "rewardsLeft": "Récompenses restantes"
+    },
+    "resultModal": {
+      "sucessfullyAdded": "ajouté avec succès",
+      "fingurePrintSucess": "Votre empreinte digitale a été ajoutée avec succès."
+    },
+    "chatHistory": {
+      "title": "Historique des discussions",
+      "selectAll": "Tout sélectionner",
+      "ClearAll": "Tout effacer"
+    },
+    "apiKey": {
+      "manageKey": "Gérer la clé API",
+      "addAPIKey": "Ajouter une clé API",
+      "removeKey": "Supprimer la clé API",
+      "save": "Sauvegarder",
+      "keyAdded": "Clé API ajoutée",
+      "deleteKey": "Votre clé API a été ajoutée avec succès, vous pouvez la supprimer en allant dans paramètres > gérer l'API.",
+      "keyRemoved": "Clé API supprimée",
+      "keyDeleted": "Votre clé API a été supprimée avec succès, vous pouvez la rajouter en allant dans paramètres > gérer l'API.",
+      "enterValidKey": "Veuillez entrer une clé API valide",
+      "storeKey": "Le stockage interne de votre appareil mobile pour votre clé API garantit qu'elle ne sera jamais communiquée à un tiers.",
+      "removeLater": "Vous pouvez conserver votre clé pour l'utiliser plus tard et la retirer si vous décidez de ne plus l'utiliser.",
+      "addKey": "Ajouter une clé :",
+      "apiKey": "Clé API :",
+      "enterKey": "Entrez API Key"
+    },
+    "notification": {
+      "allowNotification": "Autoriser les notifications",
+      "allow": "Permettre",
+      "sendNotification": "  Nous souhaitons vous envoyer des notifications depuis notre application pour les alertes, les nouvelles mises à jour et d'autres choses."
+    },
+    "noInternet": {
+      "NoInternet": "Pas d'Internet",
+      "retry": "Recommencez",
+      "noInternet": "Oops !! Pas d'Internet",
+      "checkConnection": "Impossible de se connecter à Internet. Veuillez vérifier vos paramètres de connexion Internet."
+    },
+    "profile": {
+      "myAccount": "Mon compte",
+      "emailPhone": "Courriel/Téléphone",
+      "enterEmailPhone": "Entrez votre email ou votre numéro de téléphone",
+      "update": "Mise à joure"
+    },
+    "balance": {
+      "coinsAvailable": "Pièces disponibles",
+      "wantMore": "Vous voulez une réponse illimitée aux questions, cliquez sur",
+      "or": "OU",
+      "wantMoreCoins": "Vous voulez plus de solde de pièces, cliquez sur",
+      "watchVideo": "Regarder la vidéos"
+    }
+  }
+}

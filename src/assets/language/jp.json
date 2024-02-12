@@ -1,0 +1,287 @@
+{
+  "translation": {
+    "introSlider": {
+      "personalAi": "あなたのためのパーソナル AI ヘルパー",
+      "personalAiDesc": "Open AI は、知識への迅速なアクセスを提供することで、生産性を向上させるように設計されています。",
+      "generateImage": "イメージをすばやく作成する",
+      "generateImageDesc": "最高の結果と時間を節約するツールを受け取るには、希望する画像とそのサイズを入力するだけです。",
+      "createContent": "迅速なコンテンツ制作",
+      "contentDesc": "コピーなしで最良の結果を得るには、コンテンツが必要なタイトルを入力します。 あなたはそれを変更することができます。",
+      "skip": "スキップ"
+    },
+    "onBoarding": {
+      "fastResponse": "必要なものすべてに迅速に対応",
+      "availableAllTimes": "いつでも相談に乗ってくれる相棒。",
+      "or": "また",
+      "continueAsGuest": "引き続きゲストとして"
+    },
+    "signIn": {
+      "donthaveAccount": "アカウントを持っていませんか?"
+    },
+    "signUp": {
+      "fullName": "フルネーム",
+      "enterFullName": "フルネームを入力してください",
+      "createAccount": "新しいアカウントを作成する",
+      "confirmPassword": "パスワードを認証する",
+      "reenterpassword": "パスワード再入力",
+      "alreadyHaveAccount": "すでにアカウントをお持ちですか？"
+    },
+    "auth": {
+      "signUp": "サインアップ",
+      "signIn": "ログイン",
+      "enterEmail": "メールIDを入力してください",
+      "password": "パスワード",
+      "enterPassword": "パスワードを入力する",
+      "simplyUseMegabot": "この MegaBot を使用すると、必要なときにいつでも助けを得ることができます。",
+      "resetPassword": "パスワードを再設定する",
+      "fillForm": "以下のフォームに記入してください",
+      "email": "Eメール",
+      "getOtp": "OTP を取得",
+      "phoneNumber": "電話番号",
+      "phone": "電話",
+      "emailPlaceholder": "メールIDを入力",
+      "phonePlaceholder": "電話番号を入力してください。",
+      "emailSucess": "電子メールを正常に送信",
+      "userNotFound": "用途が見つかりません"
+    },
+    "authError": {
+      "email": "メールアドレスを入力してください",
+      "name": "Please Enter name",
+      "validEmail": "有効なメールアドレスを入力してください",
+      "usedEmail": "メールは既に使用されています。",
+      "password": "パスワードを入力してください",
+      "validPassword": "パスワードは 8 未満であってはなりません",
+      "wrongPassword": "正しいパスワードを入力してください",
+      "cpassword": "確認用パスワードを入力してください",
+      "validCpassword": "パスワードとパスワードの確認は一致する必要があります",
+      "phoneNumber": "電話番号を入力してください"
+    },
+    "phoneSignIn": {
+      "phoneVerification": "電話番号の確認",
+      "getOtp": "番号を入力して OTP を取得します",
+      "otpVerification": "OTP 検証",
+      "otpContent": "コード検証を送信しました。",
+      "verifyProceed": "確認して続行",
+      "receiveOtp": "OTP コードが届かない場合",
+      "resend": "再送する",
+      "getOTP": "OTP を取得",
+      "mobilePhone": "携帯電話",
+      "email": "Eメール",
+      "proceed": "確認して続行"
+    },
+    "otpVerify": {
+      "enterOTP": "OTPを入力してください"
+    },
+    "changePass": {
+      "changePassword": "パスワードを変更する",
+      "newPassword": "新しいパスワード",
+      "confirmPassword": "パスワードを認証する",
+      "updatePassword": "パスワードの更新"
+    },
+    "commonContent": {
+      "subtitle": "後から設定から変更可能",
+      "imgeGenerator": "画像ジェネレータ",
+      "loading": "読み込んでいます...",
+      "contentWriter": "コンテンツライター",
+      "myAccount": "マイアカウント",
+      "chatBot": "チャットボット",
+      "chatHistory": "チャット履歴",
+      "congratulations": "おめでとう",
+      "somethingWentWrong": "何かが間違っています。後でもう一度試してください。"
+    },
+    "languageContent": {
+      "title": "言語を選択する",
+      "english": "英語",
+      "hindi": "ヒンディー語",
+      "french": "フランス語",
+      "italian": "イタリアの",
+      "japanese": "日本",
+      "german": "ドイツ人"
+    },
+    "button": {
+      "continue": "続く",
+      "share": "共有",
+      "download": "ダウンロード",
+      "update": "アップデート",
+      "done": "終わり",
+      "tryAgain": "再試行する",
+      "deleteAccount": "アカウントを削除する",
+      "watchNow": "今見る",
+      "okay": "わかった"
+    },
+    "charecterContent": {
+      "title": "キャラクター選択"
+    },
+    "fingerPrint": {
+      "contentDesc": "指紋スキャナーをセットアップして、アプリケーションのセキュリティを強化します。",
+      "addNow": "今すぐ追加",
+      "doitLater": "後で行う"
+    },
+    "fingerprintLock": {
+      "title": "指紋ロックとセキュリティ",
+      "subTitle": "まだ指紋をアップロードしていません",
+      "desc": "(最大 2 つの指紋を追加できます)",
+      "verify": "確認",
+      "verifyFingureprint": "  まだ指紋を確認していません"
+    },
+    "addFingerprint": {
+      "addFingerprint": "指紋を追加",
+      "title": "センサーに指を置く",
+      "subTitle": "振動を感じたらセンサーを押し上げます"
+    },
+    "bottomTab": {
+      "home": "家",
+      "chat": "チャット",
+      "image": "画像",
+      "content": "コンテンツ",
+      "settings": "設定"
+    },
+    "home": {
+      "startExperience": "最高の体験を今すぐ始めましょう!!",
+      "askAnything": "何かを頼みます",
+      "imageGenerator": "画像生成器",
+      "contentWriting": "コンテンツライティング"
+    },
+    "image": {
+      "search": "検索",
+      "imageSize": "画像サイズ",
+      "viewType": "ビュー タイプ",
+      "selectSize": "サイズを選択",
+      "SelectType": "タイプを選択",
+      "searchDesc": "まだ何も検索していません。 今すぐ検索を開始してください。",
+      "generateImage": "画像を生成",
+      "imagePreview": "画像プレビュー",
+      "generated": "生成された",
+      "loadingImage": "画像のロードをお待ちください"
+    },
+    "imageType": {
+      "pageType": "ページの種類",
+      "gridType": "グリッドタイプ"
+    },
+    "contentWriting": {
+      "topic": "トピック",
+      "placeholder": "元。 Ui/UXデザイン",
+      "generateContent": "コンテンツを生成する",
+      "description": "説明"
+    },
+    "contentOptions": {
+      "businessIdea": "ビジネスアイデア",
+      "coverLetter": "カバーレター",
+      "blogSection": "ブログセクション",
+      "marketingWriting": "マーケティングライティング",
+      "service": "サービス"
+    },
+    "setting": {
+      "setting": "設定",
+      "welcomeToMegabot": "メガボットへようこそ",
+      "myAccount": "マイアカウント",
+      "apiKey": "APIキーの管理",
+      "fingerprintLock": "指紋ロック",
+      "notification": "通知",
+      "language": "言語",
+      "character": "キャラクター",
+      "rtl": "RTL",
+      "rateApp": "アプリを評価",
+      "shareApp": "アプリを共有する",
+      "privacyTerm": "プライバシーと規約",
+      "refundPlolicy": "代金返却方針",
+      "logout": "ログアウト"
+    },
+    "myAccount": {
+      "firstName": "ファーストネーム",
+      "lastName": "苗字",
+      "firestNamePlaceholder": "名を入力してください"
+    },
+    "otpModal": {
+      "codeVerificationWithMobile": "コード確認をあなたの携帯電話番号に送信しました"
+    },
+    "chatOptions": {
+      "shareToFriend": "友達にシェア",
+      "downloadChat": "チャットをダウンロード",
+      "changeBackground": "背景を変更",
+      "clearChat": "チャットをクリア"
+    },
+    "chat": {
+      "messageLimit": " メッセージの上限に達しました。",
+      "clickBelow": "下をクリック",
+      "toGet": "取得するため",
+      "reward": "褒美",
+      "watchNow": "今見る",
+      "typeHere": "ここに入力...",
+      "thereAre": "がある",
+      "awardsLeft": "賞はメッセージに残しました。",
+      "cleared": "無事クリア",
+      "descCleared": "会話全体が正常にクリアされました。",
+      "today": "今日",
+      "suggestion": "質問の提案",
+      "preBuildQuestions": "ビルド前の質問:",
+      "defaultWallpaper": "デフォルトの壁紙"
+    },
+    "CurruncyOptions": {
+      "usDollar": "米ドル",
+      "euro": "ユーロ",
+      "inr": "INR",
+      "pound": "ポンド"
+    },
+    "paymentOptions": {
+      "payPal": "ペイパル",
+      "razorPay": "レイザーペイ",
+      "inAppPurchase": "アプリ内購入",
+      "stripe": "ストライプ"
+    },
+    "rewardModal": {
+      "newReward": " おめでとう！！ ProBot の新しい報酬が 1 つあります。",
+      "hurrey": "ハーリー!!!",
+      "rewardsLeft": "残りの報酬"
+    },
+    "resultModal": {
+      "sucessfullyAdded": "正常に追加されました",
+      "fingurePrintSucess": "指紋が正常に追加されました。"
+    },
+    "chatHistory": {
+      "title": "チャット履歴",
+      "selectAll": "すべて選択",
+      "ClearAll": "すべてクリア"
+    },
+    "apiKey": {
+      "manageKey": "APIキーの管理",
+      "addAPIKey": "APIキーを追加",
+      "removeKey": "APIキーを削除する",
+      "save": "保存",
+      "keyAdded": "APIキーが追加されました",
+      "deleteKey": "API キーは正常に追加されました。[設定] > [API の管理] に移動して削除できます。",
+      "keyRemoved": "API キーが削除されました",
+      "keyDeleted": "API キーは正常に削除されました。[設定] > [API の管理] に移動して、再度追加できます。",
+      "enterValidKey": "有効な API キーを入力してください",
+      "storeKey": "API キーはモバイル デバイスの内部ストレージに保存されているため、第三者に通信されることはありません。",
+      "removeLater": "後で使用するためにキーを保管し、もう使用しないことに決めた場合は削除できます。",
+      "addKey": "キーを追加:",
+      "apiKey": "APIキー:",
+      "enterKey": "API Ke を入力してくださいy"
+    },
+    "notification": {
+      "allowNotification": "通知を許可する",
+      "allow": "許可する",
+      "sendNotification": "  アラート、新しいアップデートなどについてアプリから通知を送信したいと考えています."
+    },
+    "noInternet": {
+      "NoInternet": "インターネットがない",
+      "retry": "リトライ",
+      "noInternet": "おっと ！！ インターネットがない",
+      "checkConnection": "インターネットに接続できませんでした。 インターネット接続設定を確認してください."
+    },
+    "profile": {
+      "myAccount": "マイアカウント",
+      "emailPhone": "メール/電話",
+      "enterEmailPhone": "メールアドレスまたは電話番号を入力してください",
+      "update": "アップデートe"
+    },
+    "balance": {
+      "coinsAvailable": "利用可能なコイン",
+      "wantMore": "無制限の質問回答を希望する場合は、クリックしてください",
+      "or": "また",
+      "wantMoreCoins": "コイン残高をもっと知りたい場合は、をクリックしてください",
+      "watchVideo": "ビデオを見るs"
+    }
+  }
+}

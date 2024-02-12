@@ -1,0 +1,9 @@
+export const coin = require('@assets/gif/coin.gif');
+export const chatLoad = require('@assets/gif/chat/chatLoad.gif');
+export const playAd = require('@assets/gif/chat/playAd.gif');
+export const wallpaper1 = require('@assets/gif/chat/wallpaper1.gif');
+export const wallpaper2 = require('@assets/gif/chat/wallpaper2.gif');
+export const wallpaper3 = require('@assets/gif/chat/wallpaper3.gif');
+export const wallpaper4 = require('@assets/gif/chat/wallpaper4.gif');
+export const apiKey = require('@assets/gif/apiKey.gif');
+export const noWifi = require('@assets/gif/noWifi.gif');
