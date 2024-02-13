@@ -1,6 +1,5 @@
 apply plugin: "com.android.application"
 apply plugin: "com.facebook.react"
-apply plugin: 'com.google.gms.google-services'
 
 import com.android.build.OutputFile
 
@@ -94,9 +93,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.megabot"
+    namespace "com.megachatbot"
     defaultConfig {
-        applicationId "com.megabot"
+        applicationId "com.megachatbot"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 4
