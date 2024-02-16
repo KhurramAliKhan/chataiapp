@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579962273467",
+    "project_id": "megabotchat",
+    "storage_bucket": "megabotchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579962273467:android:edbf8001f903b6dd09339e",
+        "android_client_info": {
+          "package_name": "com.megachatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJOTCyOoIDLqljs1r9ToJKFxAflK7EwQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

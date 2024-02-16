@@ -1,22 +1,23 @@
-import React, {useEffect} from 'react';
-import {Image, TouchableOpacity} from 'react-native';
+import React, { useEffect } from 'react';
+import { Image, TouchableOpacity } from 'react-native';
 import styles from './styles';
 import LinearGradient from 'react-native-linear-gradient';
 import appColors from '@theme/appColors';
-import {google} from '@utils/images';
+import { google } from '@utils/images';
 import {
   GoogleSignin,
   statusCodes,
 } from '@react-native-google-signin/google-signin';
-import {setValue} from '@utils/localStorage';
-import {POST_API} from '@config/methods';
+import { setValue } from '@utils/localStorage';
+import { POST_API } from '@config/methods';
+import { GOOGLE_WEB_CLIENT_ID } from '@config/constant';
 
 const googleLogin = props => {
-  const {setLoading, getUserId} = props;
+  const { setLoading, getUserId } = props;
   useEffect(() => {
     GoogleSignin.configure({
       webClientId:
-        'enter you webclientid here',
+        GOOGLE_WEB_CLIENT_ID,
     });
   }, []);
 

@@ -12,13 +12,13 @@ import {
   ResetPassword,
   OTPVerification,
   ChangePassword,
-  SelectPlan,
+  // SelectPlan,
   ApiKey,
-  SelectedPlan,
+  // SelectedPlan,
   ImagePreview,
   Profile,
-  Paypal,
-  Razorpay,
+  // Paypal,
+  // Razorpay,
   AddFingerPrint,
   Splash,
   IntroSlider,
@@ -56,10 +56,10 @@ const MyStack = () => {
         <Stack.Screen name="ResetPassword" component={ResetPassword} />
         <Stack.Screen name="OTPVerification" component={OTPVerification} />
         <Stack.Screen name="ChangePassword" component={ChangePassword} />
-        <Stack.Screen name="SelectPlan" component={SelectPlan} />
-        <Stack.Screen name="SelectedPlan" component={SelectedPlan} />
+        {/* <Stack.Screen name="SelectPlan" component={SelectPlan} /> */}
+        {/* <Stack.Screen name="SelectedPlan" component={SelectedPlan} />
         <Stack.Screen name="Razorpay" component={Razorpay} />
-        <Stack.Screen name="Paypal" component={Paypal} />
+        <Stack.Screen name="Paypal" component={Paypal} /> */}
         <Stack.Screen name="Profile" component={Profile} />
         <Stack.Screen name="AddFingerPrint" component={AddFingerPrint} />
       </Stack.Navigator>

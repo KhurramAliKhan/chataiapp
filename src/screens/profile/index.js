@@ -1,15 +1,16 @@
-import React, {useRef, useState} from 'react';
-import {ImageBackground} from 'react-native';
-import {authBackGround} from '@utils/images';
-import {GlobalStyle} from '@style';
-import {Header, AnimatedAlert} from '@commonComponents';
+import React, { useRef, useState } from 'react';
+import { ImageBackground } from 'react-native';
+import { authBackGround } from '@utils/images';
+import { GlobalStyle } from '@style';
+import { Header, AnimatedAlert } from '@commonComponents';
 import Details from './details';
-import {ProfileOption, ResultModal} from '../../otherComponent';
+import { ProfileOption, ResultModal } from '../../otherComponent';
 import ProfileImage from './profileImage';
-import {clearValue} from '../../utils/localStorage';
-import {GoogleSignin} from '@react-native-google-signin/google-signin';
+import { clearValue } from '../../utils/localStorage';
+import { GoogleSignin } from '@react-native-google-signin/google-signin';
+import { GOOGLE_WEB_CLIENT_ID } from '@config/constant';
 
-export function Profile({navigation,route}) {
+export function Profile({ navigation, route }) {
   const messageRef = useRef();
   const [message, setMessage] = useState('');
   const [success, setSuccess] = useState(false);
@@ -19,7 +20,7 @@ export function Profile({navigation,route}) {
   useEffect(() => {
     GoogleSignin.configure({
       webClientId:
-      'enter you webclientid here',
+        GOOGLE_WEB_CLIENT_ID,
     });
   }, []);
   const checkValue = res => {
@@ -46,7 +47,7 @@ export function Profile({navigation,route}) {
     await clearValue();
     navigation.reset({
       index: 0,
-      routes: [{name: 'SignIn'}],
+      routes: [{ name: 'SignIn' }],
     });
     await GoogleSignin.signOut();
   };
